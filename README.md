@@ -1,2 +1,0 @@
-# audioReact
-Created with CodeSandbox
